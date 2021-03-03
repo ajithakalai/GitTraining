@@ -1,1 +1,17 @@
 good noon
+git commit
+git logs
+
+create a centralized repository-----github
+create branches in git
+merge brances
+revert a commit
+
+Project:
+Add git to ur existing project
+fork github existing project
+git cli workflow
+delete,rename,move
+find commit done by whom,file history
+excludes unwanted files
+
